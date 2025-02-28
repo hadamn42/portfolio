@@ -1,0 +1,120 @@
+:root{
+    /* colors */
+    --brg-color: #2167bd;
+    --text-color: white;
+    --heading-brg: #388eea;
+    --heading-text: black;
+    --box-maybe: #93dbbd;
+    --box-text: black;
+    --hover-text: #901d1d;
+
+    /* fonts and whatnot */
+    --font-body: Arial, sans-serif;
+    --font-header: "Rambla", sans-serif;
+    --font-size: 20px;
+    --smaller: 0.75em;
+    --bigger: 1.25em;
+    --header: 2em;
+}
+
+/* .rambla-regular {
+    font-family: "Rambla", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.rambla-bold {
+    font-family: "Rambla", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.rambla-regular-italic {
+    font-family: "Rambla", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.rambla-bold-italic {
+    font-family: "Rambla", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+} */
+
+body {
+    margin: 0;
+    font-family: var(--font-body);
+    font-size: var(--font-size);
+    background-color: var(--brg-color);
+}
+
+header {
+    background-color: var(--heading-brg);
+    font-family: var(--font-header);
+    color: var(--heading-text);
+    text-align: center;
+    padding: 10px;
+    width: 100%;
+    font-size: var(--header);
+}
+
+header h1 {
+    margin: 0px;
+    /* background-color: yellow; */
+}
+
+#welcome {
+    color: var(--text-color);
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: var(--box-text);
+}
+
+a:hover {
+    color: var(--hover-text);
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0px;
+}
+
+#works {
+    display: grid;
+    align-items: center;
+    justify-items: center;
+    margin-bottom: 100px;
+}
+
+#works-shown {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+li {
+  background-color: var(--box-maybe);  
+  padding: 15px;
+  margin: 10px;
+  width: 95%;
+}
+
+.hide {
+    display: none;
+}
+
+.show {
+    display: block;
+}
+
+footer {
+    text-align: center;
+    background-color: var(--heading-brg);
+    position: fixed;
+    left: 0px;
+    bottom: 0px;
+    width: 100%;
+}
