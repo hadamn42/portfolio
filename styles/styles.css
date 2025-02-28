@@ -43,6 +43,7 @@
 
 body {
     margin: 0;
+    margin-bottom: 100px;
     font-family: var(--font-body);
     font-size: var(--font-size);
     background-color: var(--brg-color);
@@ -60,7 +61,6 @@ header {
 
 header h1 {
     margin: 0px;
-    /* background-color: yellow; */
 }
 
 #welcome {
@@ -86,7 +86,6 @@ ul {
     display: grid;
     align-items: center;
     justify-items: center;
-    margin-bottom: 100px;
 }
 
 #works-shown {
