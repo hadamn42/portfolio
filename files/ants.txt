@@ -1,0 +1,80 @@
+“Are you ready for the meeting?” Jane asked. 
+“I mean, kinda? I’m not sure they’ll say yes.” Jeff said.
+“Be ready. The project hinges on getting them to approve the cameras.”
+“Does it, though? I’m sure if we isolate each subject—”
+“…”
+“Okay, yeah. I know that only works in initial testing and we need the data cameras can provide. I just don’t think they’ll see it that way.”
+“And we’ve shown it is successful. To a degree. Get up, Jeff. It’s time.”
+“Sigh. Alright.”
+“Did you just say, ‘sigh?’”
+“Whatever. C’mon.”
+*   *   *
+“Welcome, Hive Mind! Especially Queen Ant! This has been a wonderful year in R & D. Many exciting things happening! We’re here to discuss Project Legion’s progress and the next steps to push it into full development. While one of the biggest challenges has been making sure our code fits in only 25 megabytes—yes? I’m sorry, I don’t think I’ve seen you here in our monthly updates before.”
+“This is Trevor Slenderbuilt, Jeff. He’s the new CFO.”
+“We have a CFO?”
+“We do now. Mr. Selderbuilt?”
+“Thank you, Ms. Antillion. Yes. I’m attending each project’s monthly review to see how efficiently we’re using our funds. I was wondering why our program needs to be under 25 megabytes.”
+“Well, it’s an estimation really. There might be more wiggle room, but we’ve found that the ants’ brains more easily accept—”
+“Excuse me, did you say ants’ brains?”
+“Yes, Mr. Slenderbuilt. We don’t know how many synapses an ant has, so we did a rough estimation based on a fly’s synapses and the estimated neurons known.”
+“The neurons and synapses in an ant’s brain.”
+“Yes, sir.”
+“And thats where you’re storing the program.”
+“We’re running it in there. Granted, we need some of the program to keep the ant alive.”
+“Alive?”
+“Yes, sir. Did you look at our briefings? The goal of Project Legion to control all ants. It’s been in the project line for years. To sum up: pheromones didn’t work, sounds failed as well. But when we tried radio frequencies, we found one that would allow us to breach the synapses and overwrite current data.”
+“We hacked an ant’s brain?”
+“We’ve done better! Tests are promising for a total hive mind! While we can control a single ant directly and easily, it is the least efficient method of gathering a swarm. We’re building a program that coordinates the swarm.”
+“Financing loves efficiency. How is the…Swarmonitor? Am I saying that right? SwarmoniTOR?”
+“The SwarMONitor is in alpha, but the process seems to be working well in our test nest. There does seem to be a slight problem right now.”
+“A slight problem?”
+“A slight problem that would be easily remedied with additional funding!”
+“What’s the—no. How much?”
+“Another 40 million.”
+“40 million?”
+“Yes. That is our current estimation.”
+“Estimation? Do you need 40 million in computer supplies?”
+“Well, we’ve been… Hold on, this will be better if I can show on the slide. Okay, This is a video of the program running. We’re moving about 100 ants right now. But…”
+“Wait, some of them are just stopping. Others are disappearing.”
+“Yes sir. That’s the problem. Ants cannot transmit, but only receive our instructions. We don’t really know what is going on.”
+“They can’t transmit? What are they doing?”
+“Well, we don’t know if they can transmit. We haven’t tested it. Not enough space. We don’t know how much they could broadcast anyway. Then there is getting the rendering of what an ant considers sight. In short, we think it would be easier to install little cameras on the ants.”
+“You want to stick cameras on creatures that are about…”
+“About 3 millimeters in length. Yes. Hence the price tag. Small cameras with smaller batteries and broadcast capabilities. We’ve been talking with the Espionage Tools Development Team. They can handle development and production.”
+“Then the price is…”
+“Materials, sir.”
+“And you need 40 million to produce tiny cameras.”
+“Well, some things will need to be made precisely at an incredibly small scale repeatedly. And the amount of cameras.”
+“The amount?”
+“To manage a hive we estimate, at worst, 1 in 50 will need cameras. And a have will only have about a thousand at most.”
+“And you want a swarm.”
+“We want an effective swarm. We need something that will handle people. Hundreds of people. Our swarm will be the largest gathering of ants conceived!” 
+“Which you estimate to be…”
+“In the billions.”
+“40 million won’t even begin to cover that!”
+“We know. 40 million will provide enough to refine and organize a small swarm. Of maybe a dozen nests.”
+“And what good will that get us?”
+“That will get us a project able to fund itself! Think about it. With enough effort, ants can burrow through anything. We can slowly steal enough money to fund the project on a larger scale”
+“Wait, what did you just say?”
+“Fund the project on a larger scale?”
+“Before that?”
+“We can slowly steal enough money?”
+“Yes. In there. ‘Slowly.’ Why did you use that word.”
+“Well, we still have some bugs to work out of the system. We haven’t studied the rate it will take to burrow, much less the rate it will take to burrow with the size necessary to steal anything of value.”
+“And when do you think you’ll hit that dead end? In another 160 million?”
+“We can start those tests once we have the cameras. We can use the supercomputer to monitor all of this while directing the ants.”
+“When do you estimate we’ll know for certain that we’ve wasted money?”
+“Excuse me?”
+“You need another 40 million for tiny cameras that don’t exist yet. Fine, that should be fairly simple to solve. But what if you can’t figure out what is going wrong with some of the ants? What if using ants to steal proves to be more inefficient than taking the risk ourselves?”
+“But we’ve come so far—”
+“That’s a fool’s thinking. Just because we’ve put effort into it doesn’t mean it is worth anything.”
+“May I make a suggestion?”
+“Of course, Ms. Antillion.”
+“How small are our bugging devices?”
+“Small enough for 5 ants to hold, Ms. Antillion. We’ve been using them to work on the program’s coordination.”
+“I see. If the ants had cameras, would we be able to place our bugs more discretely?” 
+“Yes! Yes we could! We only need 5 ants because it’s kinda awkward to move around! But we could start placing those as soon as we got the cameras!”
+“Mr. Slenderbuilt, how lucritive does blackmail look? Or selling state secrets? Especially when no one can notice?”
+“Well, Ms. Antillion, I can see that would have a greater return. Jeff, do we have footage of good coordination?”
+“We do, Mr. Slenderbuilt. But I think you’ll agree we have a need to get some proper eyes in nests and faraway places in order to move the ants efficiently.”
+“That, Jeff, is a compelling case. I think we can manage your funding.”
