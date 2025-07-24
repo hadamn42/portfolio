@@ -13,7 +13,7 @@
     --font-header: "Rambla", sans-serif;
     --font-size: 20px;
     --smaller: 0.75em;
-    --bigger: 1.25em;
+    --bigger: 1.15em;
     --header: 2em;
 }
 
@@ -68,9 +68,16 @@ header h1 {
     text-align: center;
 }
 
+h3 {
+    margin: 0px;
+    font-size: var(--bigger);
+}
+
 a {
     text-decoration: none;
     color: var(--box-text);
+    width: 100%;
+    padding-left: 2.2%;
 }
 
 a:hover {
@@ -107,6 +114,25 @@ li {
 
 .show {
     display: block;
+}
+
+.description{
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+}
+
+.bolton{
+    background-color: var(--box-maybe);
+    margin-left: 3.4em;
+    margin-bottom: 1em;
+}
+
+.bolton:active{
+    background-color: var(--hover-text);    
+}
+
+.bolton:hover{
+    cursor: pointer;
 }
 
 footer {
