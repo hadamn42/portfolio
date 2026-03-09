@@ -43,7 +43,7 @@ function createHover() {
         const info = titleDesc.innerHTML;
         d.title = info;
         d.style.textAlign = "center";
-        d.style.height = "130px";
+        d.style.height = "140px";
         d.style.width = "169px";
         d.style.display = "grid";
         d.style.alignItems = "center";
